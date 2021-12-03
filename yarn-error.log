@@ -1,0 +1,26 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add typescript
+
+PATH: 
+  C:\Users\felix\Documents\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\felix\Documents\cmder\vendor\conemu-maximus5;C:\Users\felix\Documents\cmder\vendor\conemu-maximus5\ConEmu;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files (x86)\Calibre2\;C:\Program Files\Tesseract-OCR;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Users\felix\.cargo\bin;C:\Users\felix\AppData\Local\Microsoft\WindowsApps;C:\Users\felix\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\felix\.dotnet\tools;C:\Users\felix\AppData\Local\Programs\Python\Python39;C:\Users\felix\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\felix\AppData\Local\atom\bin;C:\Users\felix\AppData\Local\Programs\Julia-1.6.2\bin;C:\Users\felix\AppData\Roaming\npm;C:\Users\felix\AppData\Local\Yarn\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\felix\Documents\cmder\vendor\bin;C:\Users\felix\Documents\cmder
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  17.1.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EEXIST: file already exists, mkdir 'G:\My Drive\INF\HTML\intro\memgame\node_modules'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
